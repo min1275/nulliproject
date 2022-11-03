@@ -52,4 +52,4 @@
 ##
 
 #### 📽 Go to Youtube▼ </br>
-[![Video Label](http://img.youtube.com/vi/alNGnF2H7no.jpg)](https://youtu.be/alNGnF2H7no)
+[![Video Label](http://img.youtube.com/vi/alNGnF2H7no/0.jpg)](https://youtu.be/alNGnF2H7no)
